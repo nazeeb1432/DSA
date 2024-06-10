@@ -1,0 +1,10 @@
+1 65 Nazeeb
+2 80 Shaikh
+3 98 Tausif
+4 60 sejuti
+5 69 Adnan
+6 74 Sejuti
+7 99 Yeasin
+8 55 Farhana
+9 45 Sumaiya
+10 10 Muhaimin

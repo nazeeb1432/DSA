@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../non-singular-linkedlist"
+		},
+		{
+			"path": "../stack"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../queue"
+		}
+	],
+	"settings": {}
+}
